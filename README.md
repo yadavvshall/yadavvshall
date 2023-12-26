@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React,Node.js,Typescript**
 
-- 👨‍💻 All of my projects are available at [https://vshallydv.github.io/Vishal-Yadav-Portfolio/](https://vshallydv.github.io/Vishal-Yadav-Portfolio/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://vshallydv.github.io/Portfolio/)
 
 - 💬 Ask me about **Hmtl, Css, Javascript**
 
