@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yadavvshall" alt="yadavvshall" /></a> </p>
 
-- 🌱 I’m currently learning **React,Node.js,Typescript**
+- 🌱 I’m currently learning **Node.js,Typescript, NextJS**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://vshallydv.github.io/Portfolio/)
 
-- 💬 Ask me about **Hmtl, Css, Javascript**
+- 💬 Ask me about **Hmtl, Css, Javascript, ReactJS, Java, MySQL, MongoDB**
 
 - 📫 How to reach me **yadavvshall@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_4x8BvJGvUn1ehyjinDz7VZfErq-rB66/view?usp=sharing](https://drive.google.com/file/d/1_4x8BvJGvUn1ehyjinDz7VZfErq-rB66/view?usp=sharing)
+- 📄 Know about my experiences [Google Drive Link](https://drive.google.com/file/d/18jv1RY-ngK07AEBsD-E9lwHPSijifclG/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
